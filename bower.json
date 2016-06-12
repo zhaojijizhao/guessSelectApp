@@ -1,0 +1,17 @@
+{
+  "name": "guessSelectApp",
+  "homepage": "https://github.com/zhaojijizhao/guessSelectApp",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0"
+  }
+}
